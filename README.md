@@ -1,2 +1,2 @@
 # noticias-cidade
-:bulb: estudo - Criação de Site em HTML e CSS
+:bulb: Estudo - Criação de Site em HTML e CSS
